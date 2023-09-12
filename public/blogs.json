@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 12345,
+        "Title": "The Enchanted Forest",
+        "cover": "https://i.ibb.co/3T2V9Wz/30121809-7493872.jpg",
+        "Author": "Emily Johnson",
+        "Author_img": "https://i.ibb.co/yQz67wj/boy-expressing-his-happiness.jpg",
+        "Posted_date": "2023-03-15",
+        "Reading_time": 10,
+        "Hashtags": [
+            "#Fantasy",
+            "#Nature",
+            "#Adventure"
+        ]
+    },
+    {
+        "Id": 67890,
+        "Title": "Exploring the Cosmos",
+        "cover": "https://i.ibb.co/P9NTnbx/solar-system-planet-collage.jpg",
+        "Author": "David Smith",
+        "Author_img": "https://i.ibb.co/yQz67wj/boy-expressing-his-happiness.jpg",
+        "Posted_date": "2023-04-02",
+        "Reading_time": 15,
+        "Hashtags": [
+            "#Space",
+            "#Science",
+            "#Astronomy"
+        ]
+    },
+    {
+        "Id": 24680,
+        "Title": "Cooking Delights",
+        "cover": "https://i.ibb.co/JQ7Fn8Z/13404992-5213188.jpg",
+        "Author": "Sarah Davis",
+        "Author_img": "https://i.ibb.co/yQz67wj/boy-expressing-his-happiness.jpg",
+        "Posted_date": "2023-05-10",
+        "Reading_time": 20,
+        "Hashtags": [
+            "#Food",
+            "#Recipes",
+            "#Cooking"
+        ]
+    },
+    {
+        "Id": 13579,
+        "Title": "Tech Trends 2023",
+        "cover": "https://i.ibb.co/zxMxfT8/top-view-workspace-with-laptop-notebook.jpg",
+        "Author": "Mark Anderson",
+        "Author_img": "https://i.ibb.co/yQz67wj/boy-expressing-his-happiness.jpg",
+        "Posted_date": "2023-02-20",
+        "Reading_time": 12,
+        "Hashtags": [
+            "#Technology",
+            "#Innovation",
+            "#Trends"
+        ]
+    },
+    {
+        "Id": 54321,
+        "Title": "Fitness Journey",
+        "cover": "https://i.ibb.co/SXTVgdF/build-your-own-body-strength-fitness-exercise-get-fit.jpg",
+        "Author": "Jessica Ramirez",
+        "Author_img": "https://i.ibb.co/yQz67wj/boy-expressing-his-happiness.jpg",
+        "Posted_date": "2023-06-05",
+        "Reading_time": 8,
+        "Hashtags": [
+            "#Fitness",
+            "#Health",
+            "#Wellness"
+        ]
+    }
+]
